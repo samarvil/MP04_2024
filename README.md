@@ -1,5 +1,6 @@
 # MP04 - Sistemes operatius en xarxa
 
+- [Presentació](Presentació mòdul SMX MP04 2024-2025-GRUP B.pdf)
 - [Repàs](Repàs/Readme.md)
 - [UF1 - Sistemes operatius propietaris en xarxa.](uf1/readme.md)
 - [UF2 - Sistemes operatius lliures en xarxa.](uf2/readme.md)
