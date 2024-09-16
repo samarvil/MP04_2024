@@ -4,4 +4,4 @@
 
 ## Teoria:
 
-- [Introducció](uf1_teoria_1.md)
+- [Introducció](uf1_teoria.md)
