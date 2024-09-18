@@ -6,6 +6,9 @@ A l'hora d'instal·lar Windows Server em de mirar els requisits mínims del maqu
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/07e156c0-5768-4053-9d22-79b9e10b1257)
 
+La imatge ISO de Windows Server 2016:
+[Enllaç de descarrega](https://www.microsoft.com/es-es/evalcenter/download-windows-server-2016)
+
 ## Tipus d'instal·lació:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/b7d71b39-b933-4693-a85b-2eb2cb8ef7a6)
