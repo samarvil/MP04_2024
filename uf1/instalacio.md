@@ -27,7 +27,7 @@ Quan ja sabem el tipus d'instal·lació escollim entre:
 
 Per instal·lar el Microsoft Windows Server des de zero, podeu veure el vídeo amb l’instal·lació de Windows Server 2019 o seguir els passos següents:
 
-- Comenceu el procés d’instal·lació arrancant l’equip amb l’USB bootejat amb l’ISO, o amb el DVD d’instal·lació del Microsoft Windows Server 2019.
+- Comenceu el procés d’instal·lació arrancant l’equip amb l’USB bootejat amb l’ISO, o amb el DVD d’instal·lació del Microsoft Windows Server 2016.
 - Seleccioneu l’idioma.
 - Cliqueu a Instalar ahora.
 - Decidiu quina versió necessiteu instal·lar (en mode text o amb experiència d’escriptori, i Standard o Datacenter).
