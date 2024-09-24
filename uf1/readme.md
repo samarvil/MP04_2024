@@ -8,3 +8,4 @@
 - [Sistemes de fitxers.](uf1_teoria_2.md)
 - [Instal·lació de Windows Server](instalacio.md)
 - [Taules de particions i emmagatzematge a Windows.](emmagatzematge.md)
+- [Gestió de discos i DISKPART](discos.md)
