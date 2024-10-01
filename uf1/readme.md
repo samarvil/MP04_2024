@@ -13,3 +13,5 @@
   - [Tipus de còpies de seguretat](backups0.md)
   - [Activar característica de Còpies de seguretat](backups1.md)
   - [Fer una còpia de seguretat](backups2.md)
+  - [Restaurar Còpies de seguretat](backups3.md)
+  - [Programar Còpies de seguretat](backups4.md)
