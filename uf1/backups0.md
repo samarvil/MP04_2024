@@ -6,7 +6,7 @@ Una de les coses més importants d'un sistema operatiu és tenir fiabilitat en l
 
 ## Tipus de còpies de seguretat
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/fd398c35-28a0-4a2f-8f4d-25570d3c3a63)
+![image](https://www.computerweekly.com/rms/onlineimages/whatis-pillar_full_incremental_differential_backup.png)
 
 Hi ha tres maneres principals de plantejar les còpies de seguretat.
 
