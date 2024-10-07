@@ -15,3 +15,5 @@
   - [Fer una còpia de seguretat](backups2.md)
   - [Restaurar Còpies de seguretat](backups3.md)
   - [Programar Còpies de seguretat](backups4.md)
+- [Visor d'esdeveniments](visor_esdeveniments.md)
+- [Tasques programades](tasques_programades.md)
