@@ -59,18 +59,3 @@ Aquí podem personalitzar com es veu cada valor
 Si necessitem observar els valors detingudament podem parar el gràfic amb el botó de pausa.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/1fb99be6-2a13-45d5-955c-faad332e2830)
-
-# **Activitat de classe:**
-
-Afegiu els següents contadors amb vista de **barres**:
-
-- % ús de memòria (color vermell)
-- % ús de processador per part de l'usuari (color blau).
-- % temps de lectura de disc (color taronja).
-- % temps d'escriptura de disc (color verd).
-- Interfície de xarxa bytes enviats (color marró).
-- Interfície de xarxa bytes rebuts (color groc).
-
-Feu operacions que facin servir el disc, la xarxa, la memòria i el processador per veure els canvis al monitor.
-
-Per a la xarxa podeu instal·lar EDGE anant des de Windows Server a [https://www.microsoft.com/es-es/edge/business](https://www.microsoft.com/es-es/edge/business)
