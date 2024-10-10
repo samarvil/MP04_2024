@@ -115,11 +115,3 @@ El plafó de serveis us mostra la informació següent:
 - **Deshabilitat:** el servei restarà desactivat.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/9fe62105-2af4-4ed0-b39d-b880a418cba3)
-
-
-## Activitat a classe:
-
-1.- Obre el bloc de notes de windows.
-2.- Elimina el procés del bloc de notes.
-3.- Obre el bloc de notes de windows.
-4.- Elimina el procés amb l'instrucció taskkill (escriu taskkill /? a CMD per instruccions).
