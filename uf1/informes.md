@@ -22,8 +22,3 @@ Els informes es poden consultar a la secció informes
 Els informes mostren informació del sistema que pot ser rellevant per a l'administrador.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/3444a4e9-aad3-4efc-ad26-ffa619551734)
-
-
-# Activitat de classe:
-
-Genera els dos informes dels recopiladors de dades i busca si hi ha algún problema.
