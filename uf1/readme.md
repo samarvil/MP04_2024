@@ -21,3 +21,4 @@
   - [Monitor d'esdeveniments](monitor.md)
   - [Recopilador de dades del sistema](informes.md)
   - [Administrador de tasques](supervisio.md)
+- [Activitat de síntesi](activitat_sintesi.md)
