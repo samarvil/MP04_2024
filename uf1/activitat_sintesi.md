@@ -53,24 +53,3 @@ Configura tasques programades per mantenir el rendiment del servidor i assegurar
 
 ---
 
-## Activitat 3: Simulació de Recuperació de Desastres amb Còpies de Seguretat i Restauració
-
-Recupera dades perdudes utilitzant còpies de seguretat i configurar alertes per evitar futurs problemes.
-
-### Tasques
-1. **Simulació d’Error**: 
-   - Simula una pèrdua de dades desconnectant un volum o provocant un error d’accés.
-
-2. **Restauració des de la Còpia de Seguretat**: 
-   - Restaura els fitxers perduts o el volum complet des de la còpia de seguretat.
-
-3. **Documentació del Procés de Recuperació**: 
-   - Redacta un informe detallant els passos de restauració i les opcions utilitzades.
-
-4. **Configuració d’Alerta Preventiva**: 
-   - Crea una alerta per evitar la repetició de l'error en el futur.
-
-### Resultats esperats
-- Recuperació completa de dades.
-- Informe detallat del procés de restauració.
-- Alerta configurada per prevenir problemes similars en el futur.
