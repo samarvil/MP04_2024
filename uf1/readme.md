@@ -32,4 +32,5 @@
   - [Gestió d'equips](equips.md)
   - [Gestió de grups](grups.md)
   - [Unitats organitzatives](unitats_organitzatives.md)
-  - [Unir un client a un domini d'Active Directory](conectar_client_a_domini.md)   
+  - [Unir un client a un domini d'Active Directory](conectar_client_a_domini.md)
+  - [Importació d'usuaris de forma masiva](import_export.md)
