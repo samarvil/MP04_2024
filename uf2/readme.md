@@ -15,3 +15,9 @@
   - [Instal·lar guest additions a Ubuntu](guest.md)
   - [Gestionar actualitzacions](actualitzacions.md)
   - [Canviar el nom de l'equip](canviar_nom.md)
+- ** Instal·lar Software**:
+  - [Instal·lar i desinstal·lar software a Ubuntu](instalar_software.md)
+- **Comandes per gestionar el disc dur:**
+  - [Mostrar espai al disc -df](df.md)
+  - [Crear particions - fdisk i gdisk](fdisk.md)
+  - [Formatetjar i muntar particions](formatejar.md)  
