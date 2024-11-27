@@ -34,7 +34,7 @@ D'aquesta manera l'usuari serà root, però haurem de sortir de root quan volgue
 
 Ubuntu té una instrucció anomenada **sudo visudo** que permet editar el fitxer amb els usuaris root del sistema /etc/sudoers
 
-Quan executem la instrucció s'edita el fitxer /etc/sudoers.tmp, quan sortim de l'edició es guardan els canvias a /etc/sudoers
+Quan executem la instrucció s'edita el fitxer /etc/sudoers.tmp, quan sortim de l'edició es guardan els canvis a /etc/sudoers
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/f00476cd-0c25-4a01-9d9b-6dd468273fcc)
 
