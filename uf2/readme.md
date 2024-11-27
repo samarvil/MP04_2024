@@ -21,3 +21,8 @@
   - [Mostrar espai al disc -df](df.md)
   - [Crear particions - fdisk i gdisk](fdisk.md)
   - [Formatetjar i muntar particions](formatejar.md)  
+- **Usuaris i permisos**:
+  - [Superusuaris](usuaris.md)
+  - [Usuari root a Ubuntu](root.md)
+  - [Gestionar Usuaris](usuaris_linux.md)
+  - [Gestionar grups](grups.md)
