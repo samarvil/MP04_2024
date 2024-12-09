@@ -63,18 +63,6 @@ sudo restore -xf /tmp/backup_web.bak
 
 Existeixen altres comandes per fer backups com per exemple tar o rsync. També la comanda dd fa còpies però d'unitats senceres.
 
-🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
-
-**Activitat:**
-
-1. Crea i explica les comandes per fer còpia de seguretat i restaurar el directori /var/www amb la comanda tar.
-
-- sudo tar -czvf /home/xavi/mohaguapo.tar /var/www
-- sudo tar -xzvf /home/xavi/mohaguapo.tar -C /
-   
-4. Crea i explica les comandes per fer còpia de seguretat i restaurar el directori /var/www amb la comanda rsync.
-
-🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
 
 
