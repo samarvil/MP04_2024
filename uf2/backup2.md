@@ -55,13 +55,3 @@ La còpia de seguretat es pot programar per fer-se diàriament o setmanalment.
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/3e92c884-f4bb-4c7e-aafb-d77be2306259)
 
 
-
-🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
-
-**Activitat:**
-
-1. Utilitza deja-dup per fer còpia de seguretat del teu directori /home/usuari
-2. Busca un altre programa de backups en entorn gràfic i fes una còpia de seguretat de /home/usuari. Documenta el procés.
-
-🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
-
