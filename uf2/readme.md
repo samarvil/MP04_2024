@@ -30,4 +30,13 @@
   - [Mode text](monitor.md)
   - [Mode gràfic](monitor_grafic.md)
 - **Esdeveniments del sistema**:
-  - [Registre d'esdeveniments](registre_esdeveniments1.md)   
+  - [Registre d'esdeveniments](registre_esdeveniments1.md)
+- **Quotes de disc**:
+  - [Quotes de disc](quotes.md)
+- **Còpies de seguretat**:
+  - [Backup per terminal](backup1.md)
+  - [Backup gràfic](backup2.md)
+- **Programar tasques**:
+  - [Programar tasques amb cron](programar_tasques.md)
+  - [Tasques asíncrones](tasques_asincrones.md)
+  - [Tasques en un moment determinat](tasques_moment_determinat.md)
