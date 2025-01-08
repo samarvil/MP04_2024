@@ -48,7 +48,8 @@ mail: jraynor@starcraft.com|
 
 Les entrades estan organitzades jeràrquicament, amb una estructura en forma d'arbre.
 
-![LDAPExemple](https://github.com/user-attachments/assets/4a9a5172-a73b-4202-adef-ffc0c153fce1)
+![LDAPExemple](https://github.com/user-attachments/assets/255a7008-9c3c-45a8-bed0-6ff90aed45ef)
+
 
 
 Les implementacions actuals de LDAP utilitzen DNS per a les capes superiors de la jerarquia.
