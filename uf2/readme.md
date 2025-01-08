@@ -40,3 +40,9 @@
   - [Programar tasques amb cron](programar_tasques.md)
   - [Tasques asíncrones](tasques_asincrones.md)
   - [Tasques en un moment determinat](tasques_moment_determinat.md)
+- **Servei de Directori LDAP**:
+  - [Com funciona LDAP](directori_ldap.md)
+  - [Crear una Unitat Organitzativa](unitat_organitzativa.md)
+  - [Crear grups](grups_ldap.md)
+  - [Crear usuaris](usuaris_ldap.md)
+    - [Llista d'atributs de LDAP](https://ftpdocs.broadcom.com/cadocs/0/CA%20Process%20Automation%2004%202%2002-ENU/Bookshelf_Files/HTML/Content%20Designer%20Reference/1187917.html)
