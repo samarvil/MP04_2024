@@ -50,3 +50,6 @@
   - [Instal·lar LDAP](install_openldap.md)
   - [Preparar Xarxa](preparar_xarxa_ldap.md)
   - [LDAP a l'ordinador client](ldap_client.md)
+ 
+## Activitats
+- [Activitat LDAP](act_1.md)
