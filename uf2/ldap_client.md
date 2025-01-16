@@ -102,7 +102,7 @@ ldapsearch -x -H ldap://192.168.1.100 -b "dc=dungeonofbits,dc=com"
 
 # Provem que podem autenticar-nos amb un usuari de LDAP des del client:
 
-Crea un usuari anomneat kerrigan. Una vegada creat, provarem a accedir com un usuari LDAP amb la comanda:
+Crea un usuari al servidor anomenat kerrigan. Una vegada creat, provarem a accedir al client com un usuari LDAP amb la comanda:
 
 ```
 sudo su - kerrigan
