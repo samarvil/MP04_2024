@@ -28,7 +28,7 @@ Creem la carpeta compartida anomenada "enfermeria" i li donem accés al grup ant
 
 # Pas 3 - Creació de Script connexió usuaris
 
-Crearem un script (un fitxer amb extensió .bat) dins la carpeta NETLOGON del servidor.
+Crearem un script (un fitxer amb extensió .bat) dins la carpeta NETLOGON del servidor. Per accedir a la carpeta NETLOGON escribim \\NOM-DEL-SERVIDOR\NETLOGON a la barra de direcció del explorador de arxius.
 
 ![image](https://github.com/user-attachments/assets/6e342681-9da2-4184-b7d5-74db4d5f22a8)
 
