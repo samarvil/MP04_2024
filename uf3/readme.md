@@ -33,3 +33,22 @@ Per compartir recursos a Windows necessitem dues MV:
 - Directives de grup
   - [Crear una directiva de grup per una unitat organitzativa](directives.md)
   
+### Linux
+
+Per compartir recursos a Linux necessitem dues MV:
+- Ubuntu 22.04LTS (Servidor).
+- Linux Mint (client).
+
+- NFS:
+  - [Què és NFS](nfs0.md)
+  - [Instal·lar NFS al server](nfs1.md)
+  - [Instal·lar NFS al client](nfs2.md)
+  - [Crear el recurs compartit](nfs3.md)
+  - [Accedir a la carpeta compartida des d'un client](nfs4.md)
+  - [Muntar automàticament les carpetes compartides](nfs5.md)
+  - [Muntar la carpeta home del servidor per cada usuari client](nfs6.md)
+  
+
+### Permisos a Linux
+- [Permisos a Linux](permisos_linux.md)
+- [umask](umask.md)
