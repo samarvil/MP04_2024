@@ -29,16 +29,6 @@ Esquema de permisos sobre fitxers:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/dfa96ad9-7ce5-400e-b51d-f6674714160a)
 
-🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
-
-- Seguint aquest esquema quins són el propietari, el grup propietari i els permisos per al fitxer "wgetrc"?
-
-- Usuari root : Llegir i escriure
-- Grup root : Llegir
-- Altres: Llegir
-
-🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
-
 ## Modificar el propietari i grup propietari d'un directori o fitxer:
 
 Per canviar el propietari i grup propietari d'un directori o fitxer utilitzem la comanda **chown**.
