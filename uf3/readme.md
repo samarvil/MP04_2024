@@ -47,6 +47,8 @@ Per compartir recursos a Linux necessitem dues MV:
   - [Accedir a la carpeta compartida des d'un client](nfs4.md)
   - [Muntar automàticament les carpetes compartides](nfs5.md)
   - [Muntar la carpeta home del servidor per cada usuari client](nfs6.md)
+  - [Compartir una impressora amb Ubuntu](compartir_impresora_linux.md)
+  - [Programar còpies de seguretat amb NFS](activitat_backup_nfs.md)
   
 
 ### Permisos a Linux
