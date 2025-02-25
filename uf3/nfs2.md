@@ -2,7 +2,9 @@
 
 # Pas 1.- Xarxa
 
-El client estarà dins de la mateixa "Xarxa NAT" que el server.
+El client també tindrà dos adaptadors de xarxa:
+1. Adaptador de xarxa NAT amb configuració DHCP
+2. La mateixa xarxa interna del server. Recorda afegir la IP del server al DNS principal de la red.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/ea533192-45ea-4c89-be7d-a6df9abb57d4)
 
