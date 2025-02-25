@@ -2,7 +2,7 @@
 
 # Pas 1.- IP fixa
 
-Al servidor jo utilitzaré una connexió de xarxa "Xarxa NAT" amb la següent configuració:
+Al servidor jo utilitzaré una connexió de xarxa "Xarxa Interna" amb la següent configuració:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/6e44eed9-302c-4c2e-a5bc-07d17f0ea1b9)
 
