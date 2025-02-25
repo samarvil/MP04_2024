@@ -2,7 +2,9 @@
 
 # Pas 1.- IP fixa
 
-Al servidor jo utilitzaré una connexió de xarxa "Xarxa Interna" amb la següent configuració:
+Al servidor jo utilitzaré dos adaptardors de red: 
+1. Una xarxa NAT amb configuració DHCP
+2. Una connexió de xarxa "Xarxa Interna" amb la següent configuració:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/6e44eed9-302c-4c2e-a5bc-07d17f0ea1b9)
 
@@ -11,6 +13,7 @@ Al servidor jo utilitzaré una connexió de xarxa "Xarxa Interna" amb la següen
 La qual em dona accés a Internet i al gateway de la xarxa:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/13f0240f-dfb9-4832-bf2b-f53c16ccf28e)
+
 
 # Pas 2.- Actualitzem els repositoris
 
