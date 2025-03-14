@@ -10,6 +10,7 @@
 ## SAMBA
 
 - [Què és SAMBA?](samba.md)
+- [Web oficial de SAMBA](https://www.samba.org/)
 - [Instal·lar i configurar SAMBA a Linux](https://ubuntu.com/tutorials/install-and-configure-samba#2-installing-samba)
 - [Instal·lar i configurar SAMBA a Windows](https://ipv6.rs/tutorial/Windows_10/Samba/)
 - [Grups de treball](grups_de_treball.md)
