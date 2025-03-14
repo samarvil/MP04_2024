@@ -14,3 +14,4 @@
 - [Crear grup de treball a Windows](crear_grup_de_treball.md)
 - [Compartir carpeta des de Windows a grup de treball](compartir_carpeta_grup_de_treball.md)
 - [Accedir a carpeta Windows des de Windows](accedir_carpeta_desde_windows.md)
+- [Accedir a carpeta Windows des de Linux](accedir_carpeta_desde_linux.md)
