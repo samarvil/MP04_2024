@@ -17,6 +17,8 @@
 - [Compartir carpeta des de Windows a grup de treball](compartir_carpeta_grup_de_treball.md)
 - [Accedir a carpeta Windows des de Windows](accedir_carpeta_desde_windows.md)
 - [Accedir a carpeta Windows des de Linux](accedir_carpeta_desde_linux.md)
+- [Comaprtir carpeta des de Linux a grup de treball](compartir_carpeta_de_linux.md)
+- [Accedir a carpeta Linux des de Windows](accedir_windows_a_linux.md)
 
 
 
