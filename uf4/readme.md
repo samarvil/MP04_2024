@@ -19,7 +19,7 @@
 - [Accedir a carpeta Windows des de Linux](accedir_carpeta_desde_linux.md)
 - [Compartir carpeta des de Linux a grup de treball](compartir_carpeta_de_linux.md)
 - [Accedir a carpeta Linux des de Windows](accedir_windows_a_linux.md)
-
+- [Accedir a carpeta home de cada usuari Linux des de Windows i a una carpeta pública per usuaris anònims](samberos.md)
 
 
 <!--- - [Instal·lar i configurar SAMBA a Windows](https://ipv6.rs/tutorial/Windows_10/Samba/) -->
