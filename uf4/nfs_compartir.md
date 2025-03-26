@@ -6,7 +6,7 @@ Per comprobvar que tenim accés als recursos del servidor des de Windows fem el 
 
 Per a mostrar els recursos compartits des de Windows anem a una finestra i introduïn la ip del server d'aquesta manera:
 
-```\\IP_servidor``` (en el nostre exemple és \\192.168.1.10)
+```\\IP_servidor``` (en el nostre exemple és \ \192.168.1.10)
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/2585f4b3-b988-4ebf-8932-faf9e71ce27d)
 
