@@ -22,4 +22,5 @@
 - [Accedir a carpeta home de cada usuari Linux des de Windows i a una carpeta pública per usuaris anònims](samberos.md)
 
 
-<!--- - [Instal·lar i configurar SAMBA a Windows](https://ipv6.rs/tutorial/Windows_10/Samba/) -->
+## Activitat compartir impressores
+- [Activitat Compartir Impressores](compartir_impressores.md)
