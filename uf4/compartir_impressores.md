@@ -25,3 +25,13 @@ La xarxa de l'oficina fa servir aquestes adreces IP. On X és el número assigna
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/1dd6f371-1038-4f82-82cc-35fe39793671)
 
+# Grups de treball:
+
+1.- Aleix i Zulema
+2.- Jordi i Marc
+3.- Sergi i David
+4.- Unai i Jan
+5.- Javi i Edgar
+6.- Raul i Francesc
+7.- Iker 
+8.- Leo
