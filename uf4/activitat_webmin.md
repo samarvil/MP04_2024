@@ -80,10 +80,17 @@ sudo apt install quota quotatool
 
 ## Grups
 1.- Raul i Francesc
+
 2.- Aleix i Zulema
+
 3.- Jordi i Marc
+
 4.- Sergi i David
+
 5.- Javi i Edgar
+
 6.- Leo
+
 7.- Jan i Unai
+
 8.- Iker
