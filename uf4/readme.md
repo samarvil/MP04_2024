@@ -28,4 +28,3 @@
 ## Webmin
 - [Instal·lació Webmin](webmin.md)
 - [Projecte Webmin](activitat_webmin.md)
-- 
