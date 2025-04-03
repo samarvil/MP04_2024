@@ -26,4 +26,6 @@
 - [Activitat Compartir Impressores](compartir_impressores.md)
 
 ## Webmin
+- [Instal·lació Webmin](webmin.md)
+- [Projecte Webmin](activitat_webmin.md)
 - 
