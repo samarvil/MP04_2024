@@ -29,3 +29,7 @@
 - [Instal·lació Webmin](webmin.md)
 - [Projecte Webmin](activitat_webmin.md)
 - [Tutorial Webmin](https://webmin.com/)
+
+## Utilitzar un equip amb Linux com controlador de domini Active Directori
+- [Preparar el servidor Linux](linux_controlador_domini.md)
+- [Connectar un client Windows](linux_controlador_de_domini2.md)
