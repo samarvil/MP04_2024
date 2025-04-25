@@ -35,4 +35,4 @@
 - [Connectar un client Windows](linux_controlador_de_domini2.md)
 
 ## Zentyal
-- [Què és Zentyal](zentyal.md)
+- [Què és Zentyal](zentyal0.md)
