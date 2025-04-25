@@ -33,3 +33,6 @@
 ## Utilitzar un equip amb Linux com controlador de domini Active Directori
 - [Preparar el servidor Linux](linux_controlador_domini.md)
 - [Connectar un client Windows](linux_controlador_de_domini2.md)
+
+## Zentyal
+- [Què és Zentyal](zentyal.md)
