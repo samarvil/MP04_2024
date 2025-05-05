@@ -37,3 +37,5 @@
 ## Zentyal
 - [Què és Zentyal](zentyal0.md)
 - [Iniciar Zentyal com a controlador de domini](zentyal1.md)
+- [Gestió d'usuaris i grups](zentyal2.md)
+- [Gestió de recursos compartits](zentyal3.md)
