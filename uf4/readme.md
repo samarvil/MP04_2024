@@ -36,3 +36,4 @@
 
 ## Zentyal
 - [Què és Zentyal](zentyal0.md)
+- [Iniciar Zentyal com a controlador de domini](zentyal1.md)
