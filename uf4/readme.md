@@ -39,3 +39,4 @@
 - [Iniciar Zentyal com a controlador de domini](zentyal1.md)
 - [Gestió d'usuaris i grups](zentyal2.md)
 - [Gestió de recursos compartits](zentyal3.md)
+- [Activitat Gestió de grups i usuaris](activitat_zentyal2.md)
